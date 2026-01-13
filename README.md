@@ -1,5 +1,7 @@
+## Hi there 👋
+
 # 💫 About Me:
-🔭 Currently working on: Building modern, scalable full-stack web applications using React, TypeScript, Node.js, and MongoDB<br><br>👯 Open to collaborating on: Open-source projects and well-architected, production-ready web applications<br><br>🌱 Currently learning: Advanced React, backend system design, and practical applications of Generative AI<br><br>💬 Ask me about: Web development, frontend architecture, GitHub workflows, and open-source contributions<br><br>⚡ Fun fact: I enjoy leading tech communities and creating solutions that address real-world problems 🚀
+🔭 Open to collaborating on: Open-source projects and well-architected, production-ready web applications<br><br>🌱 Currently learning: Advanced React, backend system design, and practical applications of Generative AI<br><br>💬 Ask me about: Web development, frontend architecture, GitHub workflows, and open-source contributions<br><br>
 
 
 ## 🌐 Socials:
