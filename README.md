@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# 🧑 About Me:
 🔭 Open to collaborating on: Open-source projects and well-architected, production-ready web applications<br><br>🌱 Currently learning: Advanced React, backend system design, and practical applications of Generative AI<br><br>💬 Ask me about: Web development, frontend architecture, GitHub workflows, and open-source contributions<br><br>
 
 
